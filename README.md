@@ -14,15 +14,10 @@ En la actualidad, los jóvenes sienten desconexión hacia sus raíces culturales
 - Jóvenes estudiantes de secundaria, personas interesadas en historia y cualquier usuario que quiera reconectar con su herencia cultural.
 
 ## 5. Funcionalidad del Proyecto
-- **Sistema de Detección de Emociones**: La aplicación captará las expresiones faciales del usuario para identificar sus emociones. Esto permitirá que el sistema adapte la experiencia en función de sus reacciones emocionales.
 - **Experiencias Interactivas de Sensibilización**: Cada nivel estará diseñado para transportar al usuario a un momento crucial de cada cultura, como ceremonias importantes, celebraciones o prácticas cotidianas.
 - **Mensajes Reflexivos**: Al final de cada sección, el sistema ofrecerá un mensaje de sensibilización, que ayude al usuario a reflexionar sobre cómo esos eventos y tradiciones influyen aún hoy en su vida y entorno.
 - **Efecto Sonoro y Visual**: Sonidos y elementos visuales adaptativos que buscan enfatizar las emociones del momento (por ejemplo, tambores en ceremonias, luces cálidas para celebrar el entorno natural, etc.).
 - **Dinámicas de Reflexión y Preguntas**: Durante la experiencia, se invitará al usuario a reflexionar, preguntándole cómo perciben sus raíces o cómo conectarían esas costumbres con su vida actual, incentivando una introspección emocional sobre sus propios valores y tradiciones.
-
-## 6. Análisis de Sistemas Existentes
-- **Museo Virtual Caral**: Proporciona una experiencia secuencial y educativa, pero sin una conexión emocional o una invitación a la reflexión personal.
-- **Museo Virtual de la Herencia Africana**: Incluye narraciones y elementos emocionales que podrían inspirar la creación de experiencias reflexivas y empáticas.
 
 
 ## 7. Referencias bibliográficas
