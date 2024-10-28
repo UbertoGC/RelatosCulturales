@@ -1,26 +1,29 @@
 # Ruta Temporal: Culturas del Antiguo Perú
 
 ## 1. Introducción
-En el Perú, el interés por la historia propia no es algo común en los jóvenes hoy en día, lo que ocasiona una disminución en la población interesada en la historia. Esto puede llevar a confusiones y malentendidos, ya que la historia describe cómo los sucesos ocurrieron a lo largo del tiempo, permitiendo entender el presente [1].
-Los cursos de historia tienen como finalidad proporcionar un conocimiento racional y crítico del pasado de la humanidad, con el objetivo de que tanto el individuo como la sociedad puedan comprender mejor el presente [2]. De ahí radica la importancia de la historia.
-Nuestra meta es incentivar dicho conocimiento, para lo cual elegimos el tema de las culturas pre-incas.
+Este proyecto explora cómo la tecnología puede facilitar una conexión más profunda entre el usuario y la historia ancestral. A través de una experiencia emocional y empática, el "Museo Emocional" busca que los usuarios no solo aprendan sobre las culturas antiguas del Perú, sino que también comprendan y valoren sus raíces y las influencias de sus antepasados en su vida actual.
 
-## 2. Planteamiento del problema
-El problema que se plantea resolver es mejorar el aprendizaje, llamar más la atención e interés de las personas sobre la historia (en este caso, las culturas pre-incas).
+## 2. Planteamiento del Problema
+En la actualidad, los jóvenes sienten desconexión hacia sus raíces culturales y sus antepasados, lo cual debilita su identidad cultural y su aprecio por la historia. Esta falta de conocimiento emocional y cercano sobre el pasado limita una comprensión profunda de su identidad cultural y personal.
 
 ## 3. Objetivos
-El objetivo es crear varias plataformas y niveles en realidad virtual, tipo museo, en donde cada plataforma o nivel se enfoque en una cultura específica.
+- **Crear una Experiencia Empática**: Diseñar un entorno de realidad virtual donde el usuario pueda sumergirse en las vidas, valores y luchas de sus antepasados peruanos, haciendo que los eventos y costumbres del pasado se sientan cercanos y significativos.
+- **Estimular el Sentido de Pertenencia y Continuidad**: Mediante la sensibilización emocional, incentivar un sentido de pertenencia hacia las culturas pre-incas y un respeto por la herencia cultural que permanece en la actualidad.
 
 ## 4. Público Objetivo
-El público objetivo principal son estudiantes de secundaria o personas interesadas en el tema histórico escogido.
+- Jóvenes estudiantes de secundaria, personas interesadas en historia y cualquier usuario que quiera reconectar con su herencia cultural.
 
-## 5. Funcionalidad del proyecto
-El proyecto contará con un total de 5 plataformas o niveles: uno para el menú principal y los otros cuatro dedicados a las diferentes culturas.
-En cada plataforma o nivel se profundizará sobre una cultura en particular. Además, habrá transiciones de nivel en la parte central, permitiendo acceder a cualquier plataforma sin necesidad de un mapa, evitando recorridos largos o volver al inicio para cambiar de cultura.
+## 5. Funcionalidad del Proyecto
+- **Sistema de Detección de Emociones**: La aplicación captará las expresiones faciales del usuario para identificar sus emociones. Esto permitirá que el sistema adapte la experiencia en función de sus reacciones emocionales.
+- **Experiencias Interactivas de Sensibilización**: Cada nivel estará diseñado para transportar al usuario a un momento crucial de cada cultura, como ceremonias importantes, celebraciones o prácticas cotidianas.
+- **Mensajes Reflexivos**: Al final de cada sección, el sistema ofrecerá un mensaje de sensibilización, que ayude al usuario a reflexionar sobre cómo esos eventos y tradiciones influyen aún hoy en su vida y entorno.
+- **Efecto Sonoro y Visual**: Sonidos y elementos visuales adaptativos que buscan enfatizar las emociones del momento (por ejemplo, tambores en ceremonias, luces cálidas para celebrar el entorno natural, etc.).
+- **Dinámicas de Reflexión y Preguntas**: Durante la experiencia, se invitará al usuario a reflexionar, preguntándole cómo perciben sus raíces o cómo conectarían esas costumbres con su vida actual, incentivando una introspección emocional sobre sus propios valores y tradiciones.
 
-## 6. Análisis de sistemas existentes
-- **Museo Virtual Civilización Caral**: Contiene diez salas ordenadas secuencialmente, desde los inicios de Caral hasta las causas de su declive. Incluye más de 100 gráficos, entre infografías, fotos, ilustraciones y recreaciones, con información actualizada y didáctica sobre la Civilización Caral [3].
-- **The Virtual Museum: An Introduction**: En este artículo se discuten brevemente los conceptos de las aplicaciones de museos virtuales, estudiando la transformación de un museo real en un museo virtual. También se presentan dos nuevos conceptos: el “museo de museos” y el “museo imaginario” [4].
+## 6. Análisis de Sistemas Existentes
+- **Museo Virtual Caral**: Proporciona una experiencia secuencial y educativa, pero sin una conexión emocional o una invitación a la reflexión personal.
+- **Museo Virtual de la Herencia Africana**: Incluye narraciones y elementos emocionales que podrían inspirar la creación de experiencias reflexivas y empáticas.
+
 
 ## 7. Referencias bibliográficas
 [1] Larazon. “Ignorar la Historia tiene consecuencias”. La Razón. Accedido el 18 de septiembre de 2024. [En línea]. Disponible: https://www.larazon.es/blogs/sociedad-y-medio-ambiente/reflexiones-de-un-joven-pensador/ignorar-la-historia-tiene-consecuencias-BJ13921716/
